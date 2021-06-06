@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     background: url("bg.jpg") no-repeat fixed center / 100% 100%;
-    font-family: "Comic Sans MS", cursive;
+    font-family: "Comic Neue", "Comic Sans MS", cursive;
 }
 
 main {
